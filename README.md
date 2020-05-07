@@ -1,16 +1,5 @@
 # rssreaderdemo
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## RSS Reader Flutter の ロード中表示のためのサンプル
+![ダウンロード](https://user-images.githubusercontent.com/41247249/81318195-d636dc80-90c8-11ea-9881-820b4ef5ae52.gif)
+Shimmerを使って最近流行りのロード中ウィジェットを作りました。
